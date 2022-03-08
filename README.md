@@ -39,7 +39,7 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
   </a>
   
 </div>
-<h3>My languages</h3>
+<h2>My languages</h2>
 
 <div id="badges">
   <a href="risk++">
