@@ -40,6 +40,7 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
   
 </div>
 <h3>My languages</h3>
+
 <div id="badges">
   <a href="risk++">
     <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/risk%2B%2B.png" alt="Twitter Badge" width="150" hight="40"/>
