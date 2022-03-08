@@ -105,9 +105,9 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
 <div id="badges">
   <a href="Cursed-OS">
     <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/cursed%20mobile%20copy%202.png" alt="Twitter Badge" width="80" hight="80"/>
-      <h3>Cursed-OS, is a Operating System webkit.</h3>
+     
   </a>
-
+<h1 align="Center">Cursed-OS</h1>
 </div>
 
 
