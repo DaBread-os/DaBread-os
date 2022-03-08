@@ -50,7 +50,7 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
 <h2>Recent Softwares</h2>
 <div id="badges">
   <a href="Cursed-OS">
-    <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/cursed%20mobile%20copy%202.png" alt="Twitter Badge" width="80" hight="80"/>
+    <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/cursedos.png" alt="Twitter Badge" width="400" hight="100"/>
   </a>
   <a href="I2boot">
     <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/i2boot.png" alt="Twitter Badge" width="400" hight="100"/>
