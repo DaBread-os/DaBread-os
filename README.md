@@ -107,7 +107,11 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
     <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/cursedos.png" alt="Twitter Badge" width="400" hight="100"/>
      
   </a>
-  
+  <div id="badges">
+  <a href="I2boot">
+    <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/i2boot.png" alt="Twitter Badge" width="400" hight="100"/>
+     
+  </a>
 </div>
 
 
