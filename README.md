@@ -1,5 +1,7 @@
 <h1> Welcome to my page!</h1>
 
+<h2>I program a lot of diffrent languages</h2>
+
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="LinkedIn Badge" width="100" hight="100"/>
