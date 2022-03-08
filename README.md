@@ -46,3 +46,22 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
     <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/risk%2B%2B.png" alt="Twitter Badge" width="150" hight="40"/>
   </a>
 </div>
+
+<h2>Recent Softwares</h2>
+<div id="badges">
+  <a href="Cursed-OS">
+    <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/cursed%20mobile%20copy%202.png" alt="Twitter Badge" width="80" hight="80"/>
+  </a>
+  Cursed-OS, is a Operating System webkit. 
+</div>
+<div id="badges">
+   <a href="RiskWare">
+    <img src="" alt="Twitter Badge" width="80" hight="80"/>
+  </a>
+  <a href="I2Boot">
+    <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/i2boot%20logo.png" alt="Twitter Badge" width="80" hight="80"/>
+  </a>
+   <a href="FastPatch">
+    <img src="" alt="Twitter Badge" width="80" hight="80"/>
+  </a>
+  </div>
