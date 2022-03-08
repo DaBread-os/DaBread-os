@@ -25,4 +25,13 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
   <a href="html">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Twitter Badge" width="100" hight="100"/>
   </a>
+   <a href="js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Twitter Badge" width="100" hight="100"/>
+  </a>
+  <a href="node">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Twitter Badge" width="100" hight="100"/>
+  </a>
+  <a href="fsharp">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-plain.svg" alt="Twitter Badge" width="100" hight="100"/>
+  </a>
 </div>
