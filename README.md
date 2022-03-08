@@ -61,14 +61,7 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
 
   </div>
 </div>
-<div id="badges">
-  <a href="fastpatch">
-    <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/fatpatch.png" alt="Twitter Badge" width="400" hight="100"/>
-     
-  </a>
-  
-  
-  </div>
+
 
 
 
