@@ -39,7 +39,7 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
   </a>
    </a>
    <a href="lua">
-    <img src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="Twitter Badge" width="80" hight="80"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="Twitter Badge" width="80" hight="80"/>
   </a>
    </a>
    <a href="linux">
