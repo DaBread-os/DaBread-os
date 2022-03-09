@@ -62,6 +62,7 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
 <div id="badges">
   <a href="Cursed-OS">
     <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/cursedos.png" alt="Twitter Badge" width="400" hight="100"/>
+    <img src="https://img.shields.io/badge/Riskware%20users-185-red" alt="sad">
   </a>
 </div>
 <div id="badges">
