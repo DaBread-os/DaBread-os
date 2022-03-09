@@ -2,9 +2,11 @@
   My name is Bread?, also known by a lot of diffrent names. I been programming for a bit, and I create a lot of diffrent stuff
 good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK++.
 <h2>I program a lot of diffrent languages!</h2>
+<div id="badges">
+ [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=DaBread-os)](https://github.com/DaBread-os)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaBread-os&layout=compact)](https://github.com/DaBread-os)
+</div>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=DaBread-os)](https://github.com/DaBread-os)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaBread-os&layout=compact)](https://github.com/DaBread-os)
 
 <div id="badges">
   <a href="bash">
