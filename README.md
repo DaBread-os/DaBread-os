@@ -37,7 +37,15 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
    <a href="java">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Twitter Badge" width="80" hight="80"/>
   </a>
-  
+   </a>
+   <a href="lua">
+    <img src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="Twitter Badge" width="80" hight="80"/>
+  </a>
+   </a>
+   <a href="linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Twitter Badge" width="80" hight="80"/>
+  </a>
+
 </div>
 <h2>My languages!</h2>
 
