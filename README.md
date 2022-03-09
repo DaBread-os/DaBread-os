@@ -3,6 +3,9 @@
 good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK++.
 <h2>I program a lot of diffrent languages!</h2>
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=DaBread-os)](https://github.com/DaBread-os)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaBread-os&layout=compact)](https://github.com/DaBread-os)
+
 <div id="badges">
   <a href="bash">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="LinkedIn Badge" width="80" hight="80"/>
