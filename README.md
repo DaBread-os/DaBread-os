@@ -51,7 +51,7 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
 
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaBread-os&layout=compact)](https://github.com/DaBread-os)
-<br>
+
 <h2>My languages!</h2>
 
 <div id="badges">
