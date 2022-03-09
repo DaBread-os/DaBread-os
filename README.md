@@ -1,10 +1,9 @@
 <h1> Welcome to my page!</h1>
   My name is Bread?, also known by a lot of diffrent names. I been programming for a bit, and I create a lot of diffrent stuff
 good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK++.
-<h2>I program a lot of diffrent languages!</h2>
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaBread-os&layout=compact)](https://github.com/DaBread-os)
-
+<br>
+<h2>I program a lot of diffrent languages!</h2>
 <div id="badges">
   <a href="bash">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="LinkedIn Badge" width="80" hight="80"/>
