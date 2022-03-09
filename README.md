@@ -68,7 +68,8 @@ good and bad. you might know me as the creator of Cursed-OS, RiskWare, also RISK
 <div id="badges">
   <a href="I2boot">
     <img src="https://raw.githubusercontent.com/DaBread-os/breh/main/i2boot.png" alt="Twitter Badge" width="400" hight="100"/>
-     
+     <img src=" https://img.shields.io/badge/I2boot%20users-54-red" alt="sad">
+    
   </a>
 
   </div>
